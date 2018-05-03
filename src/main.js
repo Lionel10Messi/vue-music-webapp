@@ -9,7 +9,7 @@ import store from './store' // vuex
 import '@/common/scss/index.scss'
 
 // 移动端调试工具，在移动端输出日志
-/* eslint-disable no-unused-vars */
+// eslint-disable no-unused-vars
 // import vConsole from 'vconsole'
 // console.log('Hello world')
 
